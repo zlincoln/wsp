@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>HG Skis</title>
+	<?php
+		$current_page = basename($_SERVER['PHP_SELF'], '.php');
+		$pages = array('index', 'skis', 'team', 'blog', 'about', 'community');
+	?>
+	<title>HG Skis :: <?= ucfirst($current_page); ?></title>
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
 	<!--[if lt IE 9]>
 	<script type="text/javascript" src="js/html5shiv.js"></script>
@@ -10,10 +14,6 @@
 	<script type="text/javascript" src="js/bootstrap.min.js"></script>
 </head>
 <body>
-	<?php
-		$current_page = basename($_SERVER['PHP_SELF'], '.php');
-		$pages = array('index', 'skis', 'team', 'blog', 'about', 'community');
-	?>
 	<header class="clearfix">
 		<div class="navbar-fixed-top navbar-inverse">
 			<div class="container">

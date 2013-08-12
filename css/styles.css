@@ -696,7 +696,7 @@ th.visible-print,td.visible-print{display:none !important;}
 .glyphicon-expand:before{content:"\e158";}
 .glyphicon-collapse:before{content:"\e159";}
 .glyphicon-collapse-top:before{content:"\e160";}
-body{padding-top:120px;}
+body{padding-top:120px;}body#project-analysis{padding-bottom:120px;}
 header div.navbar-fixed-top ul.nav{padding:15px 0px;margin:0px;}
 header div.navbar-fixed-top form.navbar-form{padding:15px 0px;}
 footer{padding:80px 0 20px 0;}
