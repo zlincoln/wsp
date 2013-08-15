@@ -15,7 +15,7 @@
 					</label>
 				</div>
 				<div class="image-wrapper">
-					<img class="img-responsive product-image active" src="http://placehold.it/500x1200&amp;text=Ski+image" alt="electronics" id="view-1">
+					<img class="img-responsive product-image active" src="images/electronics.png" alt="electronics" id="view-1">
 					<img class="img-responsive product-image" src="http://placehold.it/500x1200&amp;text=Ski+image" alt="electronics 2" id="view-2">
 				</div>
 				<a href="#" class="btn btn-primary btn-lg btn-block">Order Now</a>

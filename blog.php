@@ -5,10 +5,10 @@
 		<div class="col-12 col-sm-9 col-lg-9">
 			<article class="panel">
 				<div class="panel-heading">
-					<h2>Post 1</h2>
+					<h2>Presenting: Aurora Trailer</h2>
 				</div>
 				<div class="panel-content">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo [...]</p>
+					<p>Aurora: n. the dawn.  We present the trailer for Aurora, our team movie for the 2012-2013 season. It was almost entirely filmed in the northeast exposing some very unique features custom to the area.  Filmed & Edited by: Sam Rogers & Charlie Stemen [...]</p>
 				</div>
 				<div class="panel-footer clearfix">
 					<a href="#" class="pull-right btn btn-primary">Read More</a>
@@ -16,10 +16,10 @@
 			</article>
 			<article class="panel">
 				<div class="panel-heading">
-					<h2>Post 1</h2>
+					<h2>City Prospect Apparel</h2>
 				</div>
 				<div class="panel-content">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo [...]</p>
+					<p>Connor taking some laps through Sugarbush Parks for the new City Prospect Apparel edit, Enjoy! [...]</p>
 				</div>
 				<div class="panel-footer clearfix">
 					<a href="#" class="pull-right btn btn-primary">Read More</a>
@@ -27,10 +27,10 @@
 			</article>
 			<article class="panel">
 				<div class="panel-heading">
-					<h2>Post 1</h2>
+					<h2>Powder Magazine</h2>
 				</div>
 				<div class="panel-content">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo [...]</p>
+					<p>We had the pleasure of talking with Powder Magazine a few weeks back. Check out their write up on our talk and see where we came from and what our future is!     [...]</p>
 				</div>
 				<div class="panel-footer clearfix">
 					<a href="#" class="pull-right btn btn-primary">Read More</a>
@@ -38,10 +38,10 @@
 			</article>
 			<article class="panel">
 				<div class="panel-heading">
-					<h2>Post 1</h2>
+					<h2>The Score</h2>
 				</div>
 				<div class="panel-content">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo [...]</p>
+					<p>Finally blessed with over 2 feet of snow, Sugarbush Parks is primed and Connor and James take full advantage of the creative setup. The streets of Burlington and Winooski were calling us with fresh snow and we were finally able to put together some shots! [...]</p>
 				</div>
 				<div class="panel-footer clearfix">
 					<a href="#" class="pull-right btn btn-primary">Read More</a>
@@ -49,10 +49,10 @@
 			</article>
 			<article class="panel">
 				<div class="panel-heading">
-					<h2>Post 1</h2>
+					<h2>Pushin'</h2>
 				</div>
 				<div class="panel-content">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo [...]</p>
+					<p>Back with our first edit of the new season, the crew gets after some early urban features, we check in with LV up in Canada and get to see his park run from Chile, and finally James Amodeo and Connor Geata give a lesson on the down rail at Sugarbush Parks! [...]</p>
 				</div>
 				<div class="panel-footer clearfix">
 					<a href="#" class="pull-right btn btn-primary">Read More</a>
