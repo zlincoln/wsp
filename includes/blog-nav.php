@@ -1,4 +1,4 @@
-<div class="accordion" id="blog-nav">
+<div class="panel-group" id="blog-nav">
 	<div class="accordion-group">
 		<div class="accordion-heading">
 			<a class="accordion-toggle" data-toggle="collapse" data-parent="#blog-nav" href="#collapse-1">Categories <i class="glyphicon glyphicon-chevron-up pull-right"></i></a>

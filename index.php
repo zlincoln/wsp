@@ -1,7 +1,7 @@
 <?php include('includes/header.php'); ?>
 <section id="hero" class="container">
 	<div class="row">
-		<div class="col-lg-12">
+		<div class="col-xs-12">
 			<div class="jumbotron">
 				<h1>HG Skis</h1>
 				<p>Announcing the 2013 Electronics</p>
@@ -10,31 +10,33 @@
 		</div>
 	</div>
 </section>
-<section id="action-items" class="container">
-	<div class="row">
-		<div class="col-lg-4 col-sm-4 col-4">
-			<a href="skis.php" class="btn btn-primary">
-				<img src="http://placehold.it/400x200&amp;text=Ski+image+placeholder" alt="Electronics" class="img-responsive">
-				<p>Grab Some Gear</p>
-			</a>
+<div class="action-items-wrap well">
+	<section id="action-items" class="container">
+		<div class="row">
+			<div class="action-item col-xs-12 col-md-4 col-lg-4">
+				<a href="skis.php" class="btn">
+					<img src="http://hgskis.com/wp-content/themes/hgskis_theme/images/ski-callout.png" alt="Electronics" class="img-responsive">
+					<p class="btn btn-primary">Grab Some Gear</p>
+				</a>
+			</div>
+			<div class="action-item col-xs-12 col-md-4 col-lg-4">
+				<a href="team.php" class="btn">
+					<img src="http://www.hgskis.com/wp-content/uploads/cutouts/hunter.png" class="img-responsive">
+					<p class="btn btn-primary">See HG In Action</p>
+				</a>
+			</div>
+			<div class="action-item col-xs-12 col-md-4 col-lg-4">
+				<a href="team.php" class="btn">
+					<img src="http://hgskis.com/wp-content/themes/hgskis_theme/images/ski-callout.png" class="img-responsive">
+					<p class="btn btn-primary">Submit a Design</p>
+				</a>
+			</div>
 		</div>
-		<div class="col-lg-4 col-sm-4 col-4">
-			<a href="team.php" class="btn btn-primary">
-				<img src="http://placehold.it/400x200&amp;text=Rider+image+placeholder" class="img-responsive">
-				<p>See HG In Action</p>
-			</a>
-		</div>
-		<div class="col-lg-4 col-sm-4 col-4">
-			<a href="team.php" class="btn btn-primary">
-				<img src="http://placehold.it/400x200&amp;text=Design+image+placeholder" class="img-responsive">
-				<p>Submit a Design</p>
-			</a>
-		</div>
-	</div>
-</section>
+	</section>
+</div>
 <section id="news" class="container">
 	<div class="row">
-		<h3 class="col-12">Latest Updates</h3>
+		<h3 class="col-xs-12">Latest Updates</h3>
 		<aside class="col-lg-4 col-sm-6">
 			<p>Stay current with the latest goodness from the industry. <a href="blog.php">See the latest posts</a> or choose your preference below</p>
 			<?php include('includes/blog-nav.php'); ?>

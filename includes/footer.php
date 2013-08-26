@@ -1,3 +1,4 @@
+</div><!-- /#main -->
 <footer>
 	<div class="container">
 		<div class="row">
@@ -7,6 +8,7 @@
 			<div class="col-4 col-offset-2">
 				<p class="pull-right">&copy; 2013 HG Skis - Dev: <a href="http://zacharylincoln.com" target="_blank">Zachary Lincoln</a></p>
 			</div>
+			<div class="background-holder"></div>
 		</div>
 	</div>	
 </footer>
